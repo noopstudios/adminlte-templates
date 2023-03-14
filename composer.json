@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/adminlte-templates",
+    "name": "noopstudios/adminlte-templates",
     "type": "library",
     "description": "AdminLTE templates for InfyOm Laravel Generator",
     "keywords": [
@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^9.0",
+        "illuminate/support": "^9.0|^10.0",
         "infyomlabs/laravel-ui-adminlte": "^4.0"
     },
     "autoload": {
